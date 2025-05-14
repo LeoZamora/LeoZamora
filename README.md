@@ -1,41 +1,5 @@
 # Leonardo Zamora
 
-Desarrollador Full Stack Junior | Especialista en Soluciones Web con Impacto Social  
-🌐 Software Developer | 👨‍💻 En formación continua
----
-
-### 🏅 Logros
-## 🦈 GitHub Achievement: Pull Shark
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge" />
-
-He abierto pull requests que han sido correctamente integradas a los repositorios.
----
-## 💼 Sobre mí
-
-- 🎓 Actualmente aprendiendo C# orientado al desarrollo de sistemas web.
-- ⚙️ Experiencia conectando servicios externos como APIs y modelos de IA de OpenAI.
-- 🚀 Despliegue de aplicaciones en servidores utilizando **Firebase** y **IIS** (Internet Information Services) para aplicaciones backend con Node.js.
-- 🧠 Apasionado por aprender y aplicar nuevas tecnologías en proyectos reales.
----
-
-Me especializo en tecnologías como **JavaScript, Node.js, SQL Server y Vue.js**, y actualmente estoy ampliando mis competencias en **C#** y **bases de datos orientadas a objetos (MongoDB)**.
-
----
-
-## 🧠 Tecnologías y Herramientas
-
-### 🖥️ Frontend
-- Vue.js, Vuetify, Bootstrap
-- HTML5, CSS3, JavaScript
-
-### 🛠️ Backend
-- Node.js, Express.js
-- Redis para caché de datos
-- Conexión con servicios externos (APIs, OpenAI)
-- C# (en aprendizaje)
-# Leonardo Zamora
-
 **Desarrollador Full Stack Junior** | **Especialista en Soluciones Web con Impacto Social**  
 🌐 *Software Developer* | 👨‍💻 *En formación continua*
 
