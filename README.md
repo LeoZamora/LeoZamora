@@ -1,4 +1,4 @@
-# Leonardo Zamora
+<h1 align="center">Hola, soy Leonardo Zamora 👋</h1>
 
 **Desarrollador Full Stack Junior** | **Especialista en Soluciones Web con Impacto Social**  
 🌐 *Software Developer* | 👨‍💻 *En formación continua*
@@ -20,6 +20,7 @@ He abierto *pull requests* que han sido correctamente integradas a los repositor
 - ⚙️ Experiencia integrando servicios externos como APIs REST y modelos de IA de OpenAI.
 - 🚀 Realizo despliegues en la nube y servidores empresariales usando **Firebase** y **IIS** (Internet Information Services) para aplicaciones Node.js.
 - 📱 Desarrollo de aplicaciones móviles con **Flutter/Dart** y **Android Studio (Java/Kotlin)**.
+- 🖥️ Desarrollo de aplicaciones de escritorio en Windows usando Windows Forms y C#.
 - 🧠 Apasionado por aprender tecnologías modernas y aplicarlas a proyectos con propósito.
 
 Me especializo en tecnologías como **JavaScript, Node.js, SQL Server y Vue.js**, y actualmente estoy profundizando en **C#** y bases de datos orientadas a objetos como **MongoDB**.
@@ -53,7 +54,10 @@ Me especializo en tecnologías como **JavaScript, Node.js, SQL Server y Vue.js**
 ### 🧰 Herramientas de desarrollo
 - Git & GitHub
 - Postman
+- RestClient
+- Visual Studio 
 - Visual Studio Code
+- Android Studio
 
 ---
 
