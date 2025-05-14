@@ -2,7 +2,6 @@
 
 Desarrollador Full Stack Junior | Especialista en Soluciones Web con Impacto Social  
 🌐 Software Developer | 👨‍💻 En formación continua
-[![PullShark badge](https://pullshark.dev/LeoZamora/badge.svg)](https://pullshark.dev/LeoZamora)
 ---
 
 ## Sobre mí
