@@ -49,8 +49,6 @@ Me especializo en tecnologías como **JavaScript, Node.js, SQL Server y Vue.js**
 - Visual Studio Code
 ---
 
-## Proyectos destacados
-
 ## 🚧 Proyectos Destacados
 
 - 📊 **Sistema de Control de Costos Empresarial**: plataforma para registrar, gestionar y visualizar gastos operativos.
