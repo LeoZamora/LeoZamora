@@ -41,19 +41,6 @@ Aplicación web interna para la gestión de mantenimientos preventivos y correct
 - Registro de mantenimientos por tiempo, kilometraje u horas.
 - Reportes dinámicos por vehículo, tipo o rango de fechas.
 - Arquitectura en capas con Express.js y SQL Server.
-
-### Sistema de Asistencia Educativa
-Módulo de control de asistencia para protagonistas en centros educativos, integrado con el sistema de matrícula. Características:
-- Registro individual y por grupo.
-- Control por período lectivo.
-- Validación de presencia real mediante métodos innovadores.
-
-### Aplicación para la Prevención de Violencia de Género (SOTPRO)
-Plataforma móvil y web con fines preventivos. Funcionalidades:
-- Botón de emergencia.
-- Contacto con líneas de ayuda.
-- IA para análisis de riesgo y acompañamiento.
-
 ---
 
 ## Actualmente aprendiendo
