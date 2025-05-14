@@ -69,9 +69,10 @@ Plataforma móvil y web con fines preventivos. Funcionalidades:
 Estoy disponible para colaborar en proyectos con enfoque social, educativo o institucional.  
 Puedes escribirme directamente a través de:
 
-- 📧 Email: *(tu correo aquí si deseas compartirlo)*
+- 📧 Email: leozamora2003@outlook.com
 - 💼 LinkedIn: *(tu perfil aquí)*
-- 🌐 GitHub: [github.com/leonardozamora](https://github.com/leonardozamora)
+- 🌐 GitHub: [github.com/LeoZamora(https://github.com/LeoZamora)
+- 🌐 Nuestra Empresa: https://devodigital.com
 
 ---
 
