@@ -3,7 +3,12 @@
 Desarrollador Full Stack Junior | Especialista en Soluciones Web con Impacto Social  
 🌐 Software Developer | 👨‍💻 En formación continua
 ---
+### 🦈 GitHub Achievement: Pull Shark
 
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge" />
+
+He abierto pull requests que han sido correctamente integradas a los repositorios.
+---
 ## Sobre mí
 
 Soy un desarrollador **full stack junior** con enfoque en el diseño y desarrollo de sistemas web personalizados. Mi formación técnica y mi interés en la tecnología como medio de transformación social me han llevado a participar en proyectos enfocados en **educación**, **mantenimiento de flotas** y **prevención de la violencia de género**.
