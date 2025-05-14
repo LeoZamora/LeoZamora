@@ -1,7 +1,7 @@
 # Leonardo Zamora
 
 Desarrollador Full Stack Junior | Especialista en Soluciones Web con Impacto Social  
-📍 Nicaragua | 🌐 Software Developer | 👨‍💻 En formación continua
+🌐 Software Developer | 👨‍💻 En formación continua
 
 ---
 
