@@ -70,8 +70,8 @@ Estoy disponible para colaborar en proyectos con enfoque social, educativo o ins
 Puedes escribirme directamente a través de:
 
 - 📧 Email: leozamora2003@outlook.com
-- 💼 LinkedIn: *(tu perfil aquí)*
-- 🌐 GitHub: [github.com/LeoZamora(https://github.com/LeoZamora)
+- 💼 LinkedIn: https://www.linkedin.com/in/leonardo-zamora-a39666231/
+- 🌐 GitHub: https://github.com/LeoZamora
 - 🌐 Nuestra Empresa: https://devodigital.com
 
 ---
