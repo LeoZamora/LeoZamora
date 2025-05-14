@@ -3,49 +3,59 @@
 Desarrollador Full Stack Junior | Especialista en Soluciones Web con Impacto Social  
 🌐 Software Developer | 👨‍💻 En formación continua
 ---
-### 🦈 GitHub Achievement: Pull Shark
+
+### 🏅 Logros
+## 🦈 GitHub Achievement: Pull Shark
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge" />
 
 He abierto pull requests que han sido correctamente integradas a los repositorios.
 ---
-## Sobre mí
+## 💼 Sobre mí
 
-Soy un desarrollador **full stack junior** con enfoque en el diseño y desarrollo de sistemas web personalizados. Mi formación técnica y mi interés en la tecnología como medio de transformación social me han llevado a participar en proyectos enfocados en **educación**, **mantenimiento de flotas** y **prevención de la violencia de género**.
+- 🎓 Actualmente aprendiendo C# orientado al desarrollo de sistemas web.
+- ⚙️ Experiencia conectando servicios externos como APIs y modelos de IA de OpenAI.
+- 🚀 Despliegue de aplicaciones en servidores utilizando **Firebase** y **IIS** (Internet Information Services) para aplicaciones backend con Node.js.
+- 🧠 Apasionado por aprender y aplicar nuevas tecnologías en proyectos reales.
+---
 
 Me especializo en tecnologías como **JavaScript, Node.js, SQL Server y Vue.js**, y actualmente estoy ampliando mis competencias en **C#** y **bases de datos orientadas a objetos (MongoDB)**.
 
 ---
 
-## Tecnologías y herramientas
+## 🧠 Tecnologías y Herramientas
 
-**Frontend**
+### 🖥️ Frontend
 - Vue.js, Vuetify, Bootstrap
 - HTML5, CSS3, JavaScript
 
-**Backend**
+### 🛠️ Backend
 - Node.js, Express.js
+- Redis para caché de datos
+- Conexión con servicios externos (APIs, OpenAI)
 - C# (en aprendizaje)
 
-**Base de datos**
-- SQL Server
+### 🗃️ Bases de datos
+- SQL Server (MSSQL)
 - MongoDB
 
-**Otros**
-- Git, GitHub
+### 🚀 Despliegue e Infraestructura
+- Firebase (Hosting, Functions)
+- IIS (Internet Information Services) para despliegue de aplicaciones Node.js en entornos empresariales
+
+### 🧰 Herramientas de desarrollo
+- Git & GitHub
 - Postman
 - Visual Studio Code
-
 ---
 
 ## Proyectos destacados
 
-### Sistema de Mantenimiento de Flotas
-Aplicación web interna para la gestión de mantenimientos preventivos y correctivos de vehículos. Incluye:
-- Registro de mantenimientos por tiempo, kilometraje u horas.
-- Reportes dinámicos por vehículo, tipo o rango de fechas.
-- Arquitectura en capas con Express.js y SQL Server.
----
+## 🚧 Proyectos Destacados
+
+- 📊 **Sistema de Control de Costos Empresarial**: plataforma para registrar, gestionar y visualizar gastos operativos.
+- 🚗 **Sistema de Gestión de Flota Vehicular**: sistema de mantenimiento, cronogramas y reportes de vehículos corporativos.
+- 🌐 **Desarrollo de sitios, aplicaciones y páginas web**: proyectos personalizados para organizaciones y pequeñas empresas.
 
 ## Actualmente aprendiendo
 
