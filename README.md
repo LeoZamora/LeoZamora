@@ -23,7 +23,7 @@ He abierto *pull requests* que han sido correctamente integradas a los repositor
 - 🖥️ Desarrollo de aplicaciones de escritorio en Windows usando Windows Forms y C#.
 - 🧠 Apasionado por aprender tecnologías modernas y aplicarlas a proyectos con propósito.
 
-Me especializo en tecnologías como **JavaScript, Node.js, SQL Server y Vue.js**, y actualmente estoy profundizando en **C#** y bases de datos orientadas a objetos como **MongoDB**.
+Me especializo en tecnologías como **JavaScript, Node.js, SQL Server, Vue.js, Flutter y Dart**, y actualmente estoy profundizando en **C#** y bases de datos orientadas a objetos como **MongoDB**.
 
 ---
 
@@ -49,6 +49,7 @@ Me especializo en tecnologías como **JavaScript, Node.js, SQL Server y Vue.js**
 
 ### 🚀 Despliegue e Infraestructura
 - Firebase (Hosting, Functions, Firestore)
+- Google Cloud
 - IIS para despliegue de aplicaciones backend con Node.js
 
 ### 🧰 Herramientas de desarrollo
