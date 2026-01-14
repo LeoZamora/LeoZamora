@@ -16,14 +16,13 @@ He abierto *pull requests* que han sido correctamente integradas a los repositor
 
 ## 💼 Sobre mí
 
-- 🎓 Actualmente aprendiendo C# orientado al desarrollo de sistemas web.
 - ⚙️ Experiencia integrando servicios externos como APIs REST y modelos de IA de OpenAI.
 - 🚀 Realizo despliegues en la nube y servidores empresariales usando **Firebase** y **IIS** (Internet Information Services) para aplicaciones Node.js.
 - 📱 Desarrollo de aplicaciones móviles con **Flutter/Dart** y **Android Studio (Java/Kotlin)**.
 - 🖥️ Desarrollo de aplicaciones de escritorio en Windows usando Windows Forms y C#.
 - 🧠 Apasionado por aprender tecnologías modernas y aplicarlas a proyectos con propósito.
 
-Me especializo en tecnologías como **JavaScript, Node.js, SQL Server, Vue.js, Flutter y Dart**, y actualmente estoy profundizando en **C#** y bases de datos orientadas a objetos como **MongoDB**.
+Me especializo en tecnologías como **TypeScript, NestJS, C#, .NET JavaScript, Node.js, SQL Server, Vue.js, Flutter y Dart**, y actualmente estoy profundizando en bases de datos orientadas a objetos como **MongoDB**.
 
 ---
 
@@ -34,10 +33,11 @@ Me especializo en tecnologías como **JavaScript, Node.js, SQL Server, Vue.js, F
 - HTML5, CSS3, JavaScript
 
 ### 🛠️ Backend
-- Node.js, Express.js
+- NodeJS, Express.js
+- NestJs, TypeOrm
+- C#, .NET
 - Redis para caché de datos
 - Conexión con APIs externas (REST, OpenAI)
-- C# (en aprendizaje)
 
 ### 🗃️ Bases de datos
 - SQL Server (MSSQL)
@@ -56,6 +56,7 @@ Me especializo en tecnologías como **JavaScript, Node.js, SQL Server, Vue.js, F
 - Git & GitHub
 - Postman
 - RestClient
+- Swagger
 - Visual Studio 
 - Visual Studio Code
 - Android Studio
@@ -67,14 +68,6 @@ Me especializo en tecnologías como **JavaScript, Node.js, SQL Server, Vue.js, F
 - 📊 **Sistema de Control de Costos Empresarial**: Plataforma para registrar, gestionar y visualizar gastos operativos.
 - 🚗 **Sistema de Gestión de Flota Vehicular**: Registro de mantenimiento, cronogramas y reportes de vehículos corporativos.
 - 🌐 **Sitios y aplicaciones web**: Creación de soluciones personalizadas para organizaciones, instituciones y pequeñas empresas.
-
----
-
-## 📚 Actualmente aprendiendo
-
-- C# para desarrollo web con conexión a bases de datos (ASP.NET)
-- Arquitectura limpia y buenas prácticas de diseño
-- Inteligencia Artificial aplicada a soluciones sociales
 
 ---
 
