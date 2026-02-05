@@ -67,6 +67,8 @@ Currently expanding knowledge in **object-oriented and NoSQL database architectu
 - Firebase (Hosting, Functions, Firestore)
 - Google Cloud
 - IIS for Node.js backend deployment
+- Docker containerization
+- PM2 for production process management
 
 ### 🧰 Development Tools
 - Git & GitHub
@@ -75,6 +77,7 @@ Currently expanding knowledge in **object-oriented and NoSQL database architectu
 - RestClient
 - Visual Studio / VS Code
 - Android Studio
+- Docker CLI
 
 ---
 
