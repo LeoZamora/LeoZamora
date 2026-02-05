@@ -16,20 +16,20 @@ He abierto *pull requests* que han sido correctamente integradas a los repositor
 
 ## 💼 Sobre mí
 
-- ⚙️ Experiencia integrando servicios externos como APIs REST y modelos de IA de OpenAI.
-- 🚀 Realizo despliegues en la nube y servidores empresariales usando **Firebase** y **IIS** (Internet Information Services) para aplicaciones Node.js.
-- 📱 Desarrollo de aplicaciones móviles con **Flutter/Dart** y **Android Studio (Java/Kotlin)**.
-- 🖥️ Desarrollo de aplicaciones de escritorio en Windows usando Windows Forms y C#.
-- 🧠 Apasionado por aprender tecnologías modernas y aplicarlas a proyectos con propósito.
+-  Experiencia integrando servicios externos como APIs REST y modelos de IA de OpenAI.
+-  Realizo despliegues en la nube y servidores empresariales usando **Firebase** y **IIS** (Internet Information Services) para aplicaciones Node.js.
+-  Desarrollo de aplicaciones móviles con **Flutter/Dart** y **Android Studio (Java/Kotlin)**.
+-  Desarrollo de aplicaciones de escritorio en Windows usando Windows Forms y C#.
+-  Apasionado por aprender tecnologías modernas y aplicarlas a proyectos con propósito.
 
-Me especializo en tecnologías como **TypeScript, NestJS, C#, .NET JavaScript, Node.js, SQL Server, Vue.js, Flutter y Dart**, y actualmente estoy profundizando en bases de datos orientadas a objetos como **MongoDB**.
+Me especializo en tecnologías como **TypeScript, NestJS, C#, .NET JavaScript, Node.js, SQL Server, Vue.js & React, Flutter y Dart**, y actualmente estoy profundizando en bases de datos orientadas a objetos como **MongoDB**.
 
 ---
 
 ## 🧠 Tecnologías y Herramientas
 
 ### 🖥️ Frontend
-- Vue.js, Vuetify, Bootstrap
+- Vue.js, Vuetify, Bootstrap - React, Material UI
 - HTML5, CSS3, JavaScript
 
 ### 🛠️ Backend
@@ -42,6 +42,8 @@ Me especializo en tecnologías como **TypeScript, NestJS, C#, .NET JavaScript, N
 ### 🗃️ Bases de datos
 - SQL Server (MSSQL)
 - MongoDB
+
+## GraphQL
 
 ### 📱 Desarrollo móvil
 - Flutter & Dart
@@ -66,6 +68,9 @@ Me especializo en tecnologías como **TypeScript, NestJS, C#, .NET JavaScript, N
 ## 🚧 Proyectos Destacados
 
 - 📊 **Sistema de Control de Costos Empresarial**: Plataforma para registrar, gestionar y visualizar gastos operativos.
+- 📊 **Sistema de Gestion de Inventario**: Plataforma para llevar un control de inventario a gran escala con multiples bodegas y sucursales.
+- 📊 **Sistema de Facturacion Interna**: Plataforma de generacion de facturas electronicas aprobada por la DGI Nicaragua.
+- 📊 **Sistemas de Gestion de Solicitudes y Formularios**: Dos plataformas que permiten la gestion y el registro de multiples solicitudes.
 - 🚗 **Sistema de Gestión de Flota Vehicular**: Registro de mantenimiento, cronogramas y reportes de vehículos corporativos.
 - 🌐 **Sitios y aplicaciones web**: Creación de soluciones personalizadas para organizaciones, instituciones y pequeñas empresas.
 
