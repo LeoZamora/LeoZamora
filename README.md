@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leonardo Zamora 👋</h1>
 
 <p align="center">
-  <strong>Junior Full Stack Developer</strong> • Building Web Solutions with Social Impact  
+  <strong>Full Stack Developer</strong> • Building Web Solutions with Social Impact  
   🌍 Software Developer • Lifelong Learner
 </p>
 
@@ -31,7 +31,7 @@ I enjoy working on projects that create real impact for organizations and commun
 ### Core Stack
 
 **TypeScript • NestJS • C# • .NET • JavaScript • Node.js • SQL Server  
-Vue.js • React • Flutter • Dart • MongoDB**
+Vue.js • React • Flutter • Dart • GraphQL**
 
 Currently expanding knowledge in **object-oriented and NoSQL database architectures**.
 
